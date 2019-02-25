@@ -1,2 +1,0 @@
-# ZakharovLab
-Lab
